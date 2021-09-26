@@ -1,0 +1,52 @@
+php=> Personal HOme Page
+
+Dynamic Pages =>Crud 
+
+browser to database and database to browser 
+
+.php
+
+xampp=> htdocs=>Folder 
+
+syntax
+
+<?php
+//method area 
+document.write()
+echo 
+print 
+
+
+?>
+
+isset
+
+html
+element=>object document.getElementBYid
+
+html
+element=> php 
+
+<form method="post">
+
+
+data get		$_POST
+data url get		$_GET
+input typefiles		$_FILES
+			$_REQUEST[]
+			$_SESSION[]
+			$_COOKIES[]
+
+include
+include_once
+require
+require_once
+
+file handling
+form validation
+session
+cookies
+function
+oops
+
+
